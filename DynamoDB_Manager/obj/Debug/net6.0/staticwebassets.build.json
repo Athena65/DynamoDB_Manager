@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "g+knsEU5jSSPaRz5hl4LqpsbJETtOs89OP0BQKY36pc=",
+  "Source": "DynamoDB_Manager",
+  "BasePath": "_content/DynamoDB_Manager",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
